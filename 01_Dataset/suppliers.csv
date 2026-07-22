@@ -1,0 +1,16 @@
+SupplierID,SupplierName,Country,City,ReliabilityScore,AvgLeadTime,CostVariancePct
+S001,Global Source Trading,China,Shenzhen,0.91,24,2.6
+S002,Pacific Rim Exports,Vietnam,Ho Chi Minh City,0.99,25,-0.0
+S003,Continental Supply Co,India,Mumbai,0.68,15,-2.5
+S004,Unity Manufacturing,Thailand,Bangkok,0.63,29,2.6
+S005,Vertex Industrial,Turkey,Istanbul,0.83,15,-4.8
+S006,Silk Route Traders,Brazil,Sao Paulo,0.86,12,8.0
+S007,Anchor Point Goods,Poland,Warsaw,0.76,7,3.9
+S008,Meridian Wholesale,Mexico,Mexico City,0.99,33,-3.6
+S009,Crestline Exports,Egypt,Cairo,0.62,9,-0.1
+S010,Harborline Supply,Philippines,Manila,0.74,26,-6.0
+S011,Delta Manufacturing,Pakistan,Karachi,0.65,13,0.2
+S012,Summit Trade Partners,Indonesia,Jakarta,0.96,21,3.6
+S013,Coastal Direct Supply,Bangladesh,Dhaka,0.88,13,-5.9
+S014,Ironclad Distributors,China,Guangzhou,0.79,26,-6.1
+S015,Beacon Trade Group,Vietnam,Hanoi,0.95,20,-6.6

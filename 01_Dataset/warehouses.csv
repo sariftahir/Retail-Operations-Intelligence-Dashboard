@@ -1,0 +1,9 @@
+WarehouseID,Location,Region,Type,Capacity
+W01,New York,North America,Central,50000
+W02,Los Angeles,North America,Regional,30000
+W03,London,Europe,Central,45000
+W04,Hamburg,Europe,Regional,25000
+W05,Singapore,Asia Pacific,Central,40000
+W06,Sydney,Asia Pacific,Regional,22000
+W07,Dubai,Middle East,Regional,20000
+W08,Toronto,North America,Urban,15000
